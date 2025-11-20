@@ -3,6 +3,7 @@
 *.tmp
 *.old
 *.swp
+*.zip
 
 # Autosave/cache
 *.kicad_pro
@@ -27,4 +28,5 @@
 Thumbs.db
 .vscode/
 .idea/
+
 
